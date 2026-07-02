@@ -9,3 +9,4 @@ function getKeys(obj)
 }
 
 console.log(getKeys(student));
+console.log(getKeys(student));
