@@ -7,6 +7,3 @@ function getKeys(obj)
 {
 	return Object.keys(obj);
 }
-
-console.log(getKeys(student));
-console.log(getKeys(student));
